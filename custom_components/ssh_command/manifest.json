@@ -13,4 +13,6 @@
     "paramiko"
   ],
   "version": "1.2.0"
+  "brand": "ssh_command",
+  
 }
